@@ -1,24 +1,45 @@
-# Hi there, I'm Shekhar Lamichhane Magar! 👋
+### Hi there 👋 
+<img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" align="left">
 
-I'm a passionate developer based in [Your Location].
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <br> 
 
-## 🔧 Technologies & Tools
+ <p align='left'>
+ <img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+ 
+&nbsp;***About me ....***<br>
+ 
+✔ Call me: ***Your Preferred Pronouns*** 😊 <br>
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+✔ I’m currently a learner<br>
 
-### Frameworks
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+✔ I’m currently learning programming  <br> 
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+✔ Ask me anything you want, and if I'm alive, I'll answer for sure 😉<br>
 
-## 📈 GitHub Stats
-[![Shekhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+✔ 💼 I’m pursuing a Bachelor's degree in Computer Science. <br>
 
-## 📫 Connect with Me
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
+✔ Real fact: *I Always try to LEARN and SHARE* 😎<br><br>
+ <a href="https://www.linkedin.com/in/yourlinkedinprofile/">
+  <img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/yourinstagramhandle/">
+  <img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/yourfacebookusername/">
+  <img align="left" alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<br><br><br>
+ 
+<p align='Center'>
+  <img align="Center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Your Github Stats">
+</p>
+<br>
+
+<p align='Center'>
+  <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Your Top Languages" />  
+</p>      
+  <br>
+<p align='center'>  
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=juicyfresh&no-bg=true" alt="Your Profile Trophies" />  
+</p>
