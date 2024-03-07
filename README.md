@@ -31,15 +31,14 @@
 </p>
 
 <p align='Center'>
-  <img align="Center" src="https://github-readme-stats.vercel.app/api?username=Sailesharyal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sailesharyal's Github Stats">
+  <img align="Center" src="https://github-readme-stats.vercel.app/api?username=shekharmagar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="ShekharMagar's Github Stats">
 </p>
 <br>
 
 <p align='Center'>
-  <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sailesharyal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="SaileshAryal" />  
+  <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shekharmagar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ShekharMagar's Top Languages" />  
 </p>      
   <br>
 <p align='center'>  
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Sailesharyal&theme=juicyfresh&no-bg=true" alt="sailesharyal" />  
-
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=shekharmagar&theme=juicyfresh&no-bg=true" alt="ShekharMagar's GitHub Profile Trophy" />  
 </p>
