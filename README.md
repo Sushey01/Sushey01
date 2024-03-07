@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shekharmagar&label=Profile%20views&color=0e75b6&style=flat" alt="shekharmagar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Shekhu012" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="shekharmagar"  </p>
+<p align="left"> <a href="https://twitter.com/Shekhu012" target="blank"><img src="https://img.shields.io/twitter/follow/Shekhar Magar?logo=twitter&style=for-the-badge" alt="shekharmagar"  </p>
 
 - 🔭 I’m currently working on **Voyagee as an intern**
 
@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://twitter.com/Shekhu012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishavchanda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shekhar-b89a791b3" height="30" width="40" /></a>
-<a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
