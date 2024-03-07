@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **susmagar012@gmail.com**
 
-- ⚡ Fun fact **I am Funny more than you think**
+- ⚡ Fun fact **I am Funny more than you think !!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
