@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Dynamic Technosoft**
 
-- 🌱 I’m currently learning **SEO, AL, REACT JS, PYTHON and many more**
+- 🌱 I’m currently learning **REACT JS, SEO, AL, PYTHON, ...**
 
 - 💬 Ask me about **React JS, Python, Arduino, Computer Systems, Data Structures and Algorithms**
 
