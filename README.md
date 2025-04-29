@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/Shekhu012" target="blank"><img src="https://img.shields.io/twitter/follow/Shekhar Magar?logo=twitter&style=for-the-badge" alt="shekharmagar"  </p>
 
-- 🔭 I’m currently working on **Voyagee as an intern**
+- 🔭 I’m currently working on **Dynamic Technosoft**
 
 - 🌱 I’m currently learning **SEO, AL, REACT JS, PYTHON and many more**
 
