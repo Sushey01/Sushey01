@@ -26,16 +26,27 @@
 ## 📊 This Week I Spent My Time On
 
 <p align="center">
-  <!-- WakaTime stats (auto-updating) -->
+  <!-- WakaTime stats (auto-updating, works only if you have WakaTime account) -->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sushey01&theme=radical&layout=compact" alt="WakaTime stats"/>
 </p>
 
 ---
 
 <p align="center">
-  <!-- GitHub stats (optional extra card) -->
+  <!-- GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Sushey01&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sushey01&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Sushey01&theme=juicyfresh&no-bg=true" alt="GitHub Profile Trophy"/>
+</p>
+
 
 
 
