@@ -16,7 +16,6 @@
 </p>
 
 - 🔭 I’m currently working on **Dynamic Technosoft**
-- 🌱 I’m currently learning **React JS, SEO, AI, Python, ...**
 - 💬 Ask me about **React JS, Python, Arduino, Computer Systems, Data Structures and Algorithms**
 - 📫 How to reach me **susmagar012@gmail.com**
 - ✔ 💼 I’m pursuing a Bachelor's degree in Computer Science from BCU.
@@ -62,6 +61,15 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
   </a>
+  <a href="https://www.linkedin.com/in/magar-shekhar13/" target="_blank">LinkedIn</a>
+<a href="https://www.instagram.com/sus.n_._._.mgr/" target="_blank">Instagram</a>
+<a href="mailto:susmagar012@gmail.com" target="_blank">Email</a>
+<a href="https://reactjs.org/" target="_blank">React</a>
+<a href="https://nextjs.org/" target="_blank">Next.js</a>
+<a href="https://www.php.net/" target="_blank">PHP</a>
+<a href="https://www.python.org/" target="_blank">Python</a>
+<a href="https://ethereum.org/en/developers/docs/" target="_blank">Ethereum</a>
+
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
   </a>
