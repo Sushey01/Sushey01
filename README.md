@@ -61,14 +61,28 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
   </a>
-  <a href="https://www.linkedin.com/in/magar-shekhar13/" target="_blank">LinkedIn</a>
-<a href="https://www.instagram.com/sus.n_._._.mgr/" target="_blank">Instagram</a>
-<a href="mailto:susmagar012@gmail.com" target="_blank">Email</a>
-<a href="https://reactjs.org/" target="_blank">React</a>
-<a href="https://nextjs.org/" target="_blank">Next.js</a>
-<a href="https://www.php.net/" target="_blank">PHP</a>
-<a href="https://www.python.org/" target="_blank">Python</a>
-<a href="https://ethereum.org/en/developers/docs/" target="_blank">Ethereum</a>
+<p align="center">
+  <!-- Social Links -->
+  <a href="https://www.linkedin.com/in/magar-shekhar13/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/sus.n_._._.mgr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
+  <a href="mailto:susmagar012@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="30" width="30"/>
+  </a>
+
+  <!-- Tech Links -->
+
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank
+
 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
