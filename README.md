@@ -24,7 +24,7 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left">Languages and Tools:</h3>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
