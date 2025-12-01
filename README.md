@@ -23,6 +23,22 @@
 
 ---
 
+## 📊 This Week I Spent My Time On
+
+<p align="center">
+  <!-- WakaTime stats (auto-updating) -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sushey01&theme=radical&layout=compact" alt="WakaTime stats"/>
+</p>
+
+---
+
+<p align="center">
+  <!-- GitHub stats (optional extra card) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sushey01&show_icons=true&theme=radical" alt="GitHub stats"/>
+</p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 
 <h3 align="left">Languages and Tools:</h3>
