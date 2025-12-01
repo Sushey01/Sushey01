@@ -24,18 +24,11 @@
 ---
 
 ## 📊 This Week I Spent My Time On
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sushey01&theme=radical&layout=compact)
 
-<p align="center">
-  <!-- WakaTime stats (auto-updating) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sushey01&theme=radical&layout=compact" alt="WakaTime stats"/>
-</p>
 
----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushey01&show_icons=true&theme=radical)
 
-<p align="center">
-  <!-- GitHub stats (optional extra card) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushey01&show_icons=true&theme=radical" alt="GitHub stats"/>
-</p>
 
 
 
@@ -77,14 +70,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushey01&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Shekhar Lamichhane Magar's Github Stats" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushey01&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sushey01&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Shekhar Lamichhane Magar's Top Languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sushey01&theme=juicyfresh&no-bg=true" alt="Shekhar Lamichhane Magar's GitHub Profile Trophy" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Sushey01&show_icons=true&layout=compact&theme=chartreuse-dark)
+
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Sushey01&theme=juicyfresh&no-bg=true)
+
