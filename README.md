@@ -16,6 +16,48 @@
   </a>
 </p>
 
+
+
+### 🔥 GitHub Streak & Activity
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sushey01&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushey01&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,python,php,arduino,docker,firebase,git,github,linux,vscode&theme=dark" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sushey01&theme=onestar&margin-w=15&no-bg=true" />
+</p>
+
+---
+
+### 💠 Contribution Heatmap
+<p align="center">
+  <img src="https://ghchart.rshah.org/007AFF/Sushey01" alt="GitHub Contribution Chart" />
+</p>
+
+---
+
+## 📊 Professional Metrics Dashboard
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits-Active-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Projects-10+-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Experience-3_Years-purple?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Availability-Open_to_Work-orange?style=for-the-badge&logo=github" />
+</p>
+
 ---
 
 ## 🚀 About Me
