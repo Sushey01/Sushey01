@@ -1,5 +1,3 @@
-
-
 <!-- Hero Section -->
 <p align="center">
   <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media" width="100%" />
@@ -12,11 +10,15 @@
 
 <!-- Profile Views & Social -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sushey01&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shekharmagar&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
   <a href="https://twitter.com/Shekhu012" target="_blank">
     <img src="https://img.shields.io/twitter/follow/Shekhu012?color=1DA1F2&logo=twitter&style=flat-square" />
   </a>
 </p>
+
+
+
+
 
 ## 🚀 About Me
 
@@ -39,40 +41,61 @@
 ## 📊 Coding Stats (WakaTime)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sushey01&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sushey01&theme=tokyonight&layout=compact" />
 </p>
+
+
+</p>
+
+
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushey01&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushey01&layout=compact&theme=tokyonight" height="165" alt="Top Languages" />
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sushey01&show_icons=true&theme=tokyonight" height="165" />
 </p>
+
+
+</p>
+<p align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushey01&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+
+</p>
+
+
+
+
 
 ---
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sushey01&theme=dracula&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sushey01&theme=dracula&no-bg=true&margin-w=15" />
 </p>
 
+
 ## 🏆 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sushey01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sushey01&theme=tokyonight&hide_border=true)
+
+
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/Shekhu012"><img src="https://skillicons.dev/icons?i=twitter" width="45" alt="Twitter"/></a>
-  <a href="mailto:susmagar012@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/></a>
-  <a href="https://github.com/Sushey01"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/></a>
+  <a href="https://twitter.com/Shekhu012"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
+  <a href="mailto:susmagar012@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="https://github.com/Sushey01"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
 </p>
 
 ---
