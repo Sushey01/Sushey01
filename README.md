@@ -43,15 +43,18 @@
 </p>
 
 
+
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sushey01&show_icons=true&theme=tokyonight" height="165" />
-  
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushey01&layout=compact&theme=tokyonight" height="165" />
 </p>
+
 
 
 
@@ -61,8 +64,9 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sushey01" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sushey01&theme=dracula&no-bg=true&margin-w=15" />
 </p>
+
 
 ---
 
