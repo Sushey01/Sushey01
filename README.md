@@ -41,7 +41,10 @@
 ## 📊 Coding Stats (WakaTime)
 
 <p align="center">
- ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sushey01&theme=tokyonight&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sushey01&theme=tokyonight&layout=compact" />
+</p>
+
 
 </p>
 
@@ -52,11 +55,17 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushey01&show_icons=true&theme=tokyonight)
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sushey01&show_icons=true&theme=tokyonight" height="165" />
+</p>
+
 
 </p>
 <p align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushey01&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushey01&layout=compact&theme=tokyonight" height="165" />
+</p>
+
 
 </p>
 
@@ -68,7 +77,10 @@
 
 ## 🏆 GitHub Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sushey01&theme=dracula&no-bg=true&margin-w=15)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sushey01&theme=dracula&no-bg=true&margin-w=15" />
+</p>
+
 
 ## 🏆 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sushey01&theme=tokyonight&hide_border=true)
