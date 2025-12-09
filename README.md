@@ -78,8 +78,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=Sushey01&theme=juicyfresh&no-bg=true" alt="Shekhar Lamichhane Magar's GitHub Profile Trophy" />
-</p>
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=juicyfresh&no-bg=true" alt="Your Profile Trophies" /> </p>
 
 
 ## 🏆 Streak Stats
