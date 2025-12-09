@@ -56,7 +56,7 @@
 
 <p align="center">
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushey01&show_icons=true&theme=tokyonight" height="165" />
+ <img align="Center" src="https://github-readme-stats.vercel.app/api?username=Sushey01&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Shekhar Lamichhane Magar's Github Stats">
 </p>
 
 
