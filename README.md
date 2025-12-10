@@ -78,7 +78,8 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=juicyfresh&no-bg=true" alt="Your Profile Trophies" /> </p>
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=Sushey01&theme=juicyfresh&no-bg=true" alt="Profile Trophies" />
+ </p>
 
 
 ## 🏆 Streak Stats
