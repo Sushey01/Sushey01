@@ -40,13 +40,12 @@
 
 ## 📊 Coding Stats (WakaTime)
 
-<p align="center">
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sushey01&theme=tokyonight&layout=compact" />
 </p>
 
 
-</p>
 
 
 
