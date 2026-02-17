@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working at **Dynamic Technosoft**  
+- 🔭 Currently working at **Un-Employed**  
 - 📚 Pursuing **BSc Computer Science** at Birmingham City University  
 - 💬 Ask me about **React.js, Python, Arduino, DSA, and Computer Systems**  
 - 📧 Reach me at **susmagar012@gmail.com**  
@@ -38,49 +38,6 @@
 
 ---
 
-## 📊 Coding Stats (WakaTime)
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sushey01&theme=tokyonight&layout=compact" />
-</p>
-
-
-
-
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <p align="center">
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sushey01&show_icons=true&theme=dark" />
-
-</p>
-
-
-</p>
-<p align="center">
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushey01&layout=compact&theme=tokyonight" />
-
-</p>
-
-
-</p>
-
-
-
-
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=Sushey01&theme=juicyfresh&no-bg=true" alt="Profile Trophies" />
- </p>
 
 
 ## 🏆 Streak Stats
